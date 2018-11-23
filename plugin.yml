@@ -1,0 +1,8 @@
+name: hooks
+description: Run scripts as hooks
+author: https://github.com/SpencerSharkey
+configuration:
+  properties:
+    precommand:
+      type: string
+  additionalProperties: false

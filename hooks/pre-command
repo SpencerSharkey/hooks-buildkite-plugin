@@ -1,0 +1,5 @@
+#!/bin/bash
+
+set -ueo pipefail
+
+. "${BUILDKITE_BUILD_CHECKOUT_PATH}/${BUILDKITE_PLUGIN_HOOKS_PRECOMMAND}"
