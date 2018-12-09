@@ -1,4 +1,4 @@
-name: hooks
+name: Hooks
 description: Run scripts as hooks
 author: https://github.com/SpencerSharkey
 configuration:
